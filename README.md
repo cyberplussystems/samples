@@ -9,4 +9,4 @@ Repository to show sample code developed by Cyberplus Systems.
 
 > <a href="https://github.com/ysantalla/erp-emp" target="_blank">Example of Angular + Firebase" ***Angular + Firebase***</a> 
 
-> <a href="https://github.com/ysantalla/api.angular" target="_blank">Example of .NET CORE 2.2 + Mysql + ANGULAR 7.0.0" ***Angular + .NET CORE***</a>
+> <a href="https://github.com/ysantalla/angularWebAPI" target="_blank">Example of .NET CORE 2.2 + Mysql + ANGULAR 7.0.0" ***Angular + .NET CORE***</a>
